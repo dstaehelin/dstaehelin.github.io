@@ -102,6 +102,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
 
+      - layout: left
+        border: weak 
+        title: KPMG Switzerland
+        sub_title: Consultant Digital Transformation
+        caption: February 2017 - November 2018
+        link: https://kpmg.com/ch/de/home.html
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
   - title: Education
     layout: list
     content:
