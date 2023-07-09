@@ -137,8 +137,7 @@ content:
   - title: Education
     layout: list
     content:
-      - border: weak
-        title: University of Zurich
+      - title: University of Zurich
         sub_title: Doctoral Program Information Systems
         caption: Since 2019
         description: |
@@ -149,8 +148,7 @@ content:
           While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
           as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
           transport and designing posters to organising a trip to Portugal for over 30 students.
-      - border: weak
-        title: University of St. Gallen
+      - title: University of St. Gallen
         sub_title: Master’s in Business Innovation - Average Grade: 5.29
         caption: 2016 - 2018
         description: |
