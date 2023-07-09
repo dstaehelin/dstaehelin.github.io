@@ -31,7 +31,6 @@ content:
       - layout: top-middle
         border: weak
         title: Digital Companion
-        sub_title: [Project Website] (https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
         link: https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html
         quote: >
           Closing the loop in chronic care with digital health. 
