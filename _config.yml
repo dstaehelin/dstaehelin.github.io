@@ -134,77 +134,20 @@ content:
           
           Assisted the management in administrative tasks associated with project coordination and planning (e.g., risk reporting, deliverables presentation, and resource allocation)
 
-- title: Experience
+  - title: Education
     layout: list
     content:
-      - layout: left
-        border: weak
-        title: University of Zurich
-        sub_title: Research Associate & Ph.D. Student
-        caption: October 2019 - present
-        link: https://www.ifi.uzh.ch/en/imrg.html
-        description: | # this will include new lines to allow paragraphs
-          Led the exploration phase of an innovation project to identify opportunities for integrating conversational agents in financial advisory services
-          
-          Collaborated on ComBaCaL, a digital health project, to empower community health workers to provide non-communicable disease care in Lesotho
-          
-          Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
-          
-          Supervised over 20 students in theses and project works on digital health and augmented reality topics
+      - title: Bristol University
+        sub_title: BSc Computer Science
+        caption: 2010 - 2013
+        description: |
+          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
+          we mainly focused on software development and the principles of programming I use a lot of these skills to
+          my advantage in my day to day work.
 
-      - layout: left
-        border: weak 
-        title: University of St. Gallen
-        sub_title: Research Associate & Ph.D. Student
-        caption: February 2019 - September 2019
-        link: https://item.unisg.ch/en
-        description: | # this will include new lines to allow paragraphs
-          Conducted a research project on value-based marketing in industrial services such as predictive and augmented reality-supported maintenance
-          
-          Supported the “Smart MedTech” benchmarking project studying the effects of digitization in the MedTech industry
-          
-          Acquisition of funds for the research project “Novel Digital Services for Highly Dynamic Manufacturing Machines”
-
-      - layout: left
-        border: weak 
-        title: KPMG Switzerland
-        sub_title: Consultant Digital Transformation
-        caption: February 2017 - November 2018
-        link: https://kpmg.com/ch/de/home.html
-        quote: >
-          80%, besides studies
-        description: | # this will include new lines to allow paragraphs
-          Worked as a consultant and business analyst and project lead for a major Swiss Bank in various digital transformation projects strongly linked to customer experience
-          
-          Consulted a cantonal bank in developing a digital transformation roadmap
-          
-          Co-developed an Industry 4.0 offering within the Digital Transformation Unit to support clients regarding the configuration and improvement of their value chain
-
-      - layout: left
-        border: weak 
-        title: UBS AG
-        sub_title: Securities Specialist
-        caption: February 2015 - December 2016
-        link: https://www.ubs.com/ch/de.html
-        quote: >
-          80%, besides studies
-        description: | # this will include new lines to allow paragraphs
-          Led a task force project within the bilateral tax regulation between Switzerland and Austria/UK 
-          
-          SME and group lead for policy-specific subjects, including account closing and cash remittances 
-
-      - layout: left
-        border: weak 
-        title: UBS AG
-        sub_title: Securities Specialist
-        caption: August 2013 - February 2015
-        link: https://www.ubs.com/ch/de.html
-        quote: >
-          40-50%, besides studies
-        description: | # this will include new lines to allow paragraphs
-          Led a process optimization project in the French tax regulation department
-          
-          Assisted the management in administrative tasks associated with project coordination and planning (e.g., risk reporting, deliverables presentation, and resource allocation)
+          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
+          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
+          transport and designing posters to organising a trip to Portugal for over 30 students.
 
   - title: When I'm Not Programming
     layout: text
