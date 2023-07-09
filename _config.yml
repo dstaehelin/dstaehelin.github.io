@@ -86,8 +86,6 @@ content:
         sub_title: Research Associate & Ph.D. Student
         caption: February 2019 - September 2019
         link: https://item.unisg.ch/en
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Conducted a research project on value-based marketing in industrial services such as predictive and augmented reality-supported maintenance
           
@@ -102,9 +100,13 @@ content:
         caption: February 2017 - November 2018
         link: https://kpmg.com/ch/de/home.html
         quote: >
-          Short description of the company (optional)
+          80%, besides studies
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Worked as a consultant and business analyst and project lead for a major Swiss Bank in various digital transformation projects strongly linked to customer experience
+          
+          Consulted a cantonal bank in developing a digital transformation roadmap
+          
+          Co-developed an Industry 4.0 offering within the Digital Transformation Unit to support clients regarding the configuration and improvement of their value chain
 
       - layout: left
         border: weak 
@@ -113,9 +115,11 @@ content:
         caption: February 2015 - December 2016
         link: https://www.ubs.com/ch/de.html
         quote: >
-          Short description of the company (optional)
+          80%, besides studies
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Led a task force project within the bilateral tax regulation between Switzerland and Austria/UK 
+          
+          SME and group lead for policy-specific subjects, including account closing and cash remittances 
 
       - layout: left
         border: weak 
@@ -124,9 +128,11 @@ content:
         caption: August 2013 - February 2015
         link: https://www.ubs.com/ch/de.html
         quote: >
-          Short description of the company (optional)
+          40-50%, besides studies
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Led a process optimization project in the French tax regulation department
+          
+          Assisted the management in administrative tasks associated with project coordination and planning (e.g., risk reporting, deliverables presentation, and resource allocation)
 
   - title: Education
     layout: list
