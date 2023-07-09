@@ -31,32 +31,28 @@ content:
       - layout: top-middle
         border: weak
         title: Digital Companion
+        sub_title: [Project Website] (https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
         link: https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html
         quote: >
-          Closing the Loop in Chronic Care with Digital Health
+          Closing the loop in chronic care with digital health. 
         description: |
-          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
+          Text
+          
       - layout: top-middle
-        title: itsgoingto.be
-        link: www.itsgoingto.be
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+        title: ComBaCaL
+        link: https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Community-Based-chronic-disease-Care-Lesotho.html
         quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+          Tackling the NCD epidemic in Lesotho by digitally empowering community health workers to provide NCD care at the community level.
         description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
+          Text
 
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+      - layout: top-middle
+        title: Heinzelmännli
+        link: https://www.ifi.uzh.ch/en/imrg/research/advisory-service-support/heinzelmaennli.html
+        quote: >
+          A collaborative digital agent for immersive financial advisory services
+        description: |
+          Text
 
   - title: Experience
     layout: list
