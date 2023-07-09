@@ -67,18 +67,19 @@ content:
     content:
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Lead Frontend Software Engineer
-        caption: July 2021 - Present
-        description: |
-          Taken accountability for the frontend of the payments product area within a commercial banking platform, becoming a go to for knowledge and technical decisions.
+        title: University of Zurich
+        sub_title: Research Associate & Ph.D. Student
+        caption: October 2019 - present
+        link: https://www.ifi.uzh.ch/en/imrg.html
+        description: | # this will include new lines to allow paragraphs
+          Led the exploration phase of an innovation project to identify opportunities for integrating conversational agents in financial advisory services
+          
+          Collaborated on ComBaCaL, a digital health project, to empower community health workers to provide non-communicable disease care in Lesotho
+          
+          Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
+          
+          Supervised over 20 students in theses and project works on digital health and augmented reality topics
 
-          Currently developing a new frontend architecture transforming the current monolithic frontend application into a scalable modular application with micro-frontends
-          using Webpack Module Federation. This has been a great experience to develop a new workflow for developers to develop and release code and have input in all aspects
-          of the development workflow.
-
-          I have also been a key part of our frontend interview provess, I have worked to improve our interview process including writing new code tests, whilst interviewing
-          candidates across multiple countries.
 
       - layout: left
         border: weak
