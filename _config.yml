@@ -137,19 +137,25 @@ content:
   - title: Education
     layout: list
     content:
-      - title: University of Zurich
+      - layout: left
+        border: weak
+        title: University of Zurich
         sub_title: Doctoral Program Information Systems
         caption: Since 2019
         description: |
           Text
           
-      - title: University of St. Gallen
+      - layout: left
+        border: weak
+        title: University of St. Gallen
         sub_title: Master’s in Business Innovation (Average Grade: 5.29)
         caption: 2016 - 2018
         description: |
           text
-          
-     - title: University of St. Gallen
+
+      - layout: left
+        border: weak
+        title: University of St. Gallen
         sub_title: Bachelor’s in Business Administration (Average Grade: 4.92)
         caption: 2012 - 2016
         description: |
