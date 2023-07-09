@@ -31,7 +31,7 @@ content:
       - layout: top-middle
         border: weak
         title: Digital Companion
-        link: https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html
+        link: [webiste] (https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
