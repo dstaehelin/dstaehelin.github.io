@@ -141,24 +141,19 @@ content:
         sub_title: Doctoral Program Information Systems
         caption: Since 2019
         description: |
-          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
-          we mainly focused on software development and the principles of programming I use a lot of these skills to
-          my advantage in my day to day work.
-
-          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
-          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
-          transport and designing posters to organising a trip to Portugal for over 30 students.
+          text
+          
       - title: University of St. Gallen
         sub_title: Master’s in Business Innovation - Average Grade 5.29
         caption: 2016 - 2018
         description: |
-          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
-          we mainly focused on software development and the principles of programming I use a lot of these skills to
-          my advantage in my day to day work.
+          During my Master's degree at the University of St. Gallen I could build on my previous studies and advance my skills and interest in digital transformation and its effect on individuals, businesses, and society. My course work comprised: LIST
 
-          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
-          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
-          transport and designing posters to organising a trip to Portugal for over 30 students.
+      - title: University of St. Gallen
+        sub_title: Bachelor’s in Business Administration - Average Grade 4.92
+        caption: 2012 - 2016
+        description: |
+          During my Bachelor's degree at the University of St. Gallen I laid a broad foundation in business, economics, and law.
 
   - title: When I'm Not Programming
     layout: text
