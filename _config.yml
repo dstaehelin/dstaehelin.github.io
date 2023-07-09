@@ -31,11 +31,7 @@ content:
       - layout: top-middle
         border: weak
         title: Digital Companion
-        link: [webiste] (https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/sproogen/modern-resume-theme
+        content: [webiste] (https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
         quote: >
           A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
         description: |
