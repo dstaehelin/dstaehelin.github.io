@@ -104,10 +104,21 @@ content:
 
       - layout: left
         border: weak 
-        title: KPMG Switzerland
-        sub_title: Consultant Digital Transformation
-        caption: February 2017 - November 2018
-        link: https://kpmg.com/ch/de/home.html
+        title: UBS AG
+        sub_title: Securities Specialist
+        caption: February 2015 - December 2016
+        link: https://www.ubs.com/ch/de.html
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+      - layout: left
+        border: weak 
+        title: UBS AG
+        sub_title: Securities Specialist
+        caption: August 2013 - February 2015
+        link: https://www.ubs.com/ch/de.html
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
