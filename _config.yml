@@ -31,9 +31,9 @@ content:
       - layout: top-middle
         border: weak
         title: Digital Companion
-        content: [webiste] (https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
+        link: https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+          Closing the Loop in Chronic Care with Digital Health
         description: |
           This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
           I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
