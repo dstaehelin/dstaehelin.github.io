@@ -89,7 +89,11 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Conducted a research project on value-based marketing in industrial services such as predictive and augmented reality-supported maintenance
+          
+          Supported the “Smart MedTech” benchmarking project studying the effects of digitization in the MedTech industry
+          
+          Acquisition of funds for the research project “Novel Digital Services for Highly Dynamic Manufacturing Machines”
 
       - layout: left
         border: weak 
