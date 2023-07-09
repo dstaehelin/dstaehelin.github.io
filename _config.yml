@@ -30,7 +30,7 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: [Digital Companion](https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html)
+        title: Digital Companion
         link: https://www.ifi.uzh.ch/en/imrg/research/Patient-and-Data-centered-Healthcare/Digital-Companion.html
         additional_links:
           - title: sproogen/modern-resume-theme
