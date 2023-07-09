@@ -137,9 +137,21 @@ content:
   - title: Education
     layout: list
     content:
-      - title: Bristol University
-        sub_title: BSc Computer Science
-        caption: 2010 - 2013
+      - title: University of Zurich
+        sub_title: Doctoral Program Information Systems
+        caption: Since 2019
+        description: |
+          Text
+          
+      - title: University of St. Gallen
+        sub_title: Master’s in Business Innovation (Average Grade: 5.29)
+        caption: 2016 - 2018
+        description: |
+          text
+          
+     - title: University of St. Gallen
+        sub_title: Bachelor’s in Business Administration (Average Grade: 4.92)
+        caption: 2012 - 2016
         description: |
           During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
           we mainly focused on software development and the principles of programming I use a lot of these skills to
