@@ -72,7 +72,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left-top
+      - layout: top-left
         border: weak
         title: University of Zurich
         sub_title: Research Associate & Ph.D. Student
