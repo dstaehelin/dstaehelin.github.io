@@ -35,8 +35,10 @@ content:
         quote: >
           Closing the loop in chronic care with digital health. 
         description: |
-          Together with ZHAW, Helmedica, and the Cobedias Institute, we worked in the Digital Companion project. The Digital Companion aims to "close the loop" for patients between consultations with medical professionals in chronic disease. Through an integrated and continuous care approach, the Digital Companion addresses the fragmentation of care. 
+          Together with ZHAW, Helmedica, and the Cobedias Institute, I worked on the Digital Companion project. The Digital Companion aims to "close the loop" for patients between consultations with medical professionals in chronic disease. Through an integrated and continuous care approach, the Digital Companion addresses the fragmentation of care. 
+        
           Patients and medical professionals share information such as patient-generated health data (e.g., food and activity diaries) and patient history to improve patient-provider collaboration for patient-centered care. In my role, I contributed to the design of the software prototype as a subject matter expert and led the scientific evaluation in Winter/Spring 2023. 
+          
           During this project, I was able to expand my experience in user- and product-centered design as well as qualitative analysis methods. In this project, I was fascinated by the enormous effect that the connection with medical professionals through the app had on patients.
           
       - layout: top-middle
@@ -45,7 +47,12 @@ content:
         quote: >
           Tackling the NCD epidemic in Lesotho by digitally empowering community health workers to provide NCD care at the community level.
         description: |
-          Text
+          ComBaCaL is a digital health implementation project for community-based NCD care in Lesotho together with SwissTPH, SolidarMed, and the National University Lesotho.
+          
+          ComBaCaL aims to tackle the rapidly spreading NCD epidemic in Lesotho by capacitating community health workers (CHWs) with a digital health tool to provide NCD care at the community level. The CHWs in ComBaCaL screen and monitor NCDs, specifically type 2 diabetes and hypertension, guided through clinical algorithms instantiated in a digital health app on a tablet. In addition to screening and monitoring services, they provide a care package including prescribing first-line treatment for uncomplicated type 2 diabetes. This way, ComBaCaL aims to provide uncomplicated type 2 diabetes care in the community, reducing the need for travel and making care more accessible for people in remote areas without compromising patient safety and quality of care. 
+          
+          In my role, I was the key driver for problem and solution exploration, requirements engineering, and product development. In the project, I gained additional experience in coordinating interdisciplinary, multicultural, and geographically dispersed teams. ComBaCaL is a perfect example of projects I am passionate about. I am driven by the positive impact of technology on individuals and society as well as the interdisciplinary collaboration.  
+
 
       - layout: top-middle
         title: Heinzelmännli
