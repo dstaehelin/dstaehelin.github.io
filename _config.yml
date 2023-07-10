@@ -47,9 +47,9 @@ content:
         quote: >
           Tackling the NCD epidemic in Lesotho by digitally empowering community health workers to provide NCD care at the community level.
         description: |
-          ComBaCaL is a digital health implementation project for community-based NCD care in Lesotho together with SwissTPH, SolidarMed, and the National University Lesotho.
+          ComBaCaL is a digital health implementation project for community-based NCD care in Lesotho together with SwissTPH, SolidarMed, and the National University Lesotho.ComBaCaL aims to tackle the rapidly spreading NCD epidemic in Lesotho by capacitating community health workers (CHWs) with a digital health tool to provide NCD care at the community level. 
           
-          ComBaCaL aims to tackle the rapidly spreading NCD epidemic in Lesotho by capacitating community health workers (CHWs) with a digital health tool to provide NCD care at the community level. The CHWs in ComBaCaL screen and monitor NCDs, specifically type 2 diabetes and hypertension, guided through clinical algorithms instantiated in a digital health app on a tablet. In addition to screening and monitoring services, they provide a care package including prescribing first-line treatment for uncomplicated type 2 diabetes. This way, ComBaCaL aims to provide uncomplicated type 2 diabetes care in the community, reducing the need for travel and making care more accessible for people in remote areas without compromising patient safety and quality of care. 
+          The CHWs in ComBaCaL screen and monitor NCDs, specifically type 2 diabetes and hypertension, guided through clinical algorithms instantiated in a digital health app on a tablet. In addition to screening and monitoring services, they provide a care package including prescribing first-line treatment for uncomplicated type 2 diabetes. This way, ComBaCaL aims to provide uncomplicated type 2 diabetes care in the community, reducing the need for travel and making care more accessible for people in remote areas without compromising patient safety and quality of care. 
           
           In my role, I was the key driver for problem and solution exploration, requirements engineering, and product development. In the project, I gained additional experience in coordinating interdisciplinary, multicultural, and geographically dispersed teams. ComBaCaL is a perfect example of projects I am passionate about. I am driven by the positive impact of technology on individuals and society as well as the interdisciplinary collaboration.  
 
@@ -60,7 +60,12 @@ content:
         quote: >
           A collaborative digital agent for immersive financial advisory services
         description: |
-          Text
+          Heinzelmännli is a research project in close collaboration with Innofactory, recapp IT, Ergon Informatics, and the University of Applied Sciences and Arts Northwestern Switzerland. The aim of Heinzelmännli is to integrate digital agents into financial advisory services.
+
+          Building on a previous research project on augmented reality systems for financial advisory services, Heinzelmännli explored the potential of digital agents to provide a more immersive and holistic service experience. The digital agent reduces the cognitive burden on advisors by automatically documenting and summarizing service encounters. Further, it provides suggestions for potential investments based on the conversation flow or retrieves additional information for clients and advisors such as financial reports on a specific company. 
+          
+          In the Heinzelmännli project, I led the exploration phase to identify opportunities for integrating digital agents in the augmented reality system. In this role, I coordinated six project partners (two banks, two technology partners, and two research institutions) to develop a product vision and strategic roadmap in accordance with innovation and research aims.
+
 
   - title: Experience
     layout: list
