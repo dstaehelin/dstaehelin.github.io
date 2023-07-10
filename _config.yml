@@ -159,7 +159,8 @@ content:
         caption: 2012 - 2016
         description: |
           During my Bachelor's degree at the University of St. Gallen I laid a broad foundation in business, economics, and law.
-        list item 1: text
+          - Internet and Social Media Start-ups ("Grade 5.5")
+          - Management in the Digital Economy - Enterprise 2.0 and Business 2.0 ("Grade: 5.5)
 
   - title: When I'm Not At Work
     layout: text
