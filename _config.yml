@@ -159,6 +159,7 @@ content:
         caption: 2012 - 2016
         description: |
           During my Bachelor's degree at the University of St. Gallen I laid a broad foundation in business, economics, and law.
+        list item 1: text
 
   - title: When I'm Not At Work
     layout: text
