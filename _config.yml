@@ -25,7 +25,7 @@ about_content: |
   I am passionate about digital innovations that address relevant user needs and preferences and contribute to a better future for individuals and society. I strive in ambiguous and interdisciplinary environments, where I can bridge boundaries between stakeholders and collaboratively find a mutual solution. New technologies always fascinate me as I am eager to explore their utility for individuals and businesses. 
 
 content:
-  - title: Projects # Title for the section
+  - title: Recent Projects # Title for the section
     layout: list
     content:
       - layout: top-middle
