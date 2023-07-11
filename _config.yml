@@ -79,13 +79,13 @@ content:
         caption: October 2019 - present
         link: https://www.ifi.uzh.ch/en/imrg.html
         description: | # this will include new lines to allow paragraphs
-          Led the exploration phase of an innovation project to identify opportunities for integrating conversational agents in financial advisory services
+          - Led the exploration phase of an innovation project to identify opportunities for integrating conversational agents in financial advisory services
           
-          Collaborated on ComBaCaL, a digital health project, to empower community health workers to provide non-communicable disease care in Lesotho
+          - Collaborated on ComBaCaL, a digital health project, to empower community health workers to provide non-communicable disease care in Lesotho
           
-          Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
+          - Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
           
-          Supervised over 20 students in theses and project works on digital health and augmented reality topics
+          - Supervised over 20 students in theses and project works on digital health and augmented reality topics
 
       - layout: left
         border: weak 
@@ -94,11 +94,11 @@ content:
         caption: February 2019 - September 2019
         link: https://item.unisg.ch/en
         description: | # this will include new lines to allow paragraphs
-          Conducted a research project on value-based marketing in industrial services such as predictive and augmented reality-supported maintenance
+          - Conducted a research project on value-based marketing in industrial services such as predictive and augmented reality-supported maintenance
           
-          Supported the “Smart MedTech” benchmarking project studying the effects of digitization in the MedTech industry
+          - Supported the “Smart MedTech” benchmarking project studying the effects of digitization in the MedTech industry
           
-          Acquisition of funds for the research project “Novel Digital Services for Highly Dynamic Manufacturing Machines”
+          - Acquired funds for the research project “Novel Digital Services for Highly Dynamic Manufacturing Machines” from InnoSuisse (CHF 690'000)
 
       - layout: left
         border: weak 
@@ -107,11 +107,11 @@ content:
         caption: February 2017 - November 2018
         link: https://kpmg.com/ch/de/home.html
         description: | # this will include new lines to allow paragraphs
-          Worked as a consultant and business analyst and project lead for a major Swiss Bank in various digital transformation projects strongly linked to customer experience
+          - Worked as a consultant and business analyst and project lead for a major Swiss Bank in various digital transformation projects strongly linked to customer experience
           
-          Consulted a cantonal bank in developing a digital transformation roadmap
+          - Consulted a cantonal bank in developing a digital transformation roadmap
           
-          Co-developed an Industry 4.0 offering within the Digital Transformation Unit to support clients regarding the configuration and improvement of their value chain
+          - Co-developed an Industry 4.0 offering within the Digital Transformation Unit to support clients regarding the configuration and improvement of their value chain
 
       - layout: left
         border: weak 
@@ -120,9 +120,9 @@ content:
         caption: February 2015 - December 2016
         link: https://www.ubs.com/ch/de.html
         description: | # this will include new lines to allow paragraphs
-          Led a task force project within the bilateral tax regulation between Switzerland and Austria/UK 
+          - Led a task force project within the bilateral tax regulation between Switzerland and Austria/UK 
           
-          SME and group lead for policy-specific subjects, including account closing and cash remittances 
+          - SME and group lead for policy-specific subjects, including account closing and cash remittances 
 
       - layout: left
         border: weak 
@@ -131,9 +131,9 @@ content:
         caption: August 2013 - February 2015
         link: https://www.ubs.com/ch/de.html
         description: | # this will include new lines to allow paragraphs
-          Led a process optimization project in the French tax regulation department
+          - Led a process optimization project in the French tax regulation department
           
-          Assisted the management in administrative tasks associated with project coordination and planning (e.g., risk reporting, deliverables presentation, and resource allocation)
+          - Assisted the management in administrative tasks associated with project coordination and planning (e.g., risk reporting, deliverables presentation, and resource allocation)
 
   - title: Education
     layout: list
