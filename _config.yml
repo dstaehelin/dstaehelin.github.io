@@ -10,11 +10,11 @@ title: Research Associate & Ph.D. Student
 email: dario.staehelin@gmail.com
 
 # Social links
-facebook_username: dario.staehelin
-instagram_username: stahelinski
 linkedin_username: dariostaehelin
 orcid_username: 0000-0002-2467-5593
 googlescholar_username: gRPqRAQAAAAJ
+facebook_username: dario.staehelin
+instagram_username: stahelinski
 
 # About Section
 # about_title: About Me
@@ -74,7 +74,7 @@ content:
     content:
       - layout: top-left
         border: weak
-        title: [Eastern Switzerland University of Applied Sciences - OST] (https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management)
+        title: [Eastern Switzerland University of Applied Sciences - OST](https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management)
         sub_title: Lecturer & Researcher for Information Systems with a Focus on Digital Health
         caption: January 2024 - present
         link: https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management
