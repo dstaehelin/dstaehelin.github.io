@@ -74,7 +74,7 @@ content:
     content:
       - layout: top-left
         border: weak
-        title: Eastern Switzerland University of Applied Sciences - OST
+        title: [Eastern Switzerland University of Applied Sciences - OST] (https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management)
         sub_title: Lecturer & Researcher for Information Systems with a Focus on Digital Health
         caption: January 2024 - present
         link: https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management
