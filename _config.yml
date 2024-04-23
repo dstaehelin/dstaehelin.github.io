@@ -74,6 +74,21 @@ content:
     content:
       - layout: top-left
         border: weak
+        title: Eastern Switzerland University of Applied Sciences - OST
+        sub_title: Lecturer & Researcher for Information Systems (Focus: Digital Health)
+        caption: January 2024 - present
+        link: IPM@OST (https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management)
+        description: | # this will include new lines to allow paragraphs
+          - Led the exploration phase of an innovation project to identify opportunities for integrating conversational agents in financial advisory services
+          
+          - Collaborated on ComBaCaL, a digital health project, to empower community health workers to provide non-communicable disease care in Lesotho
+          
+          - Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
+          
+          - Supervised over 20 students in theses and project works on digital health and augmented reality topics
+          
+      - layout: top-left
+        border: weak
         title: University of Zurich
         sub_title: Research Associate & Ph.D. Student
         caption: October 2019 - present
