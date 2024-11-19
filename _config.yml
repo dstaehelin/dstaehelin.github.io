@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Acquisition of funding from Innosuisse for the project Co-Pilot for long-term care, which aims to support nurses along the complete care process with artificial intelligence and robot process automation. 
           
-          - Study coordinator for the [MAS Digital Healthcare Management] (https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/gesundheit/management-und-fuehrung/mas-digital-healthcare-management)
+          - Study coordinator for the [MAS Digital Healthcare Management](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/gesundheit/management-und-fuehrung/mas-digital-healthcare-management)
           
           - Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
           
