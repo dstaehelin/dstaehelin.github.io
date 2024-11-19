@@ -6,21 +6,20 @@ version: 2
 
 # Personal info
 name: Dario Stähelin
-title: Research Associate & Ph.D. Student
-email: dario.staehelin@gmail.com
+title: Researcher and Lecturer in Information Systems and Digital Health at OST - Eastern Switzerland University of Applied Sciences 
+email: dario.staehelin@ost.ch
 
 # Social links
 linkedin_username: dariostaehelin
 orcid_username: 0000-0002-2467-5593
 googlescholar_username: gRPqRAQAAAAJ
-facebook_username: dario.staehelin
 instagram_username: stahelinski
 
 # About Section
 # about_title: About Me
 about_profile_image: images/Dario_Website.jpg
 about_content: |
-  Hi, my name is Dario Stähelin, I’m a fourth-year Ph.D. student in Information Systems at the University of Zurich. I am currently working on my dissertation studying the empowering effect of digital technology in healthcare. 
+  Hi, my name is Dario Stähelin, I’m a researcher and lecturer in Information Systems and Digital Health at OST - Eastern Switzerland University of Applied Sciences. I am also a Senior Researcher at the Department of Informatics at the University of Zurich. In July 2024, I finished my Ph.D. by defending my dissertation on the empowering effect of digital technology in healthcare. 
 
   I am passionate about digital innovations that address relevant user needs and preferences and contribute to a better future for individuals and society. I strive in ambiguous and interdisciplinary environments, where I can bridge boundaries between stakeholders and collaboratively find a mutual solution. New technologies always fascinate me as I am eager to explore their utility for individuals and businesses. 
 
@@ -74,6 +73,21 @@ content:
     content:
       - layout: top-left
         border: weak
+        title: OST - Eastern Switzerland University of Applied Sciences
+        sub_title: Researcher and Lecturer
+        caption: January 2024 - present
+        link: https://www.ost.ch/en/research-and-consulting-services/management/ipm-department-for-information-and-process-management
+        description: | # this will include new lines to allow paragraphs
+          - Acquisition of funding from Innosuisse for the project "Co-Pilot for long-term care", which aims to support nurses along the complete care process with artificial intelligence and robot process automation. 
+          
+          - Study coordinator for the [MAS Digital Healthcare Management] (https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/gesundheit/management-und-fuehrung/mas-digital-healthcare-management)
+          
+          - Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
+          
+          - Supervised over 20 students in theses and project works on digital health and augmented reality topics
+       
+       - layout: top-left
+        border: weak
         title: University of Zurich
         sub_title: Research Associate & Ph.D. Student
         caption: October 2019 - present
@@ -86,7 +100,6 @@ content:
           - Led the scientific evaluation of the Digital Companion, a closed-loop digital health system for chronic disease care in Switzerland
           
           - Supervised over 20 students in theses and project works on digital health and augmented reality topics
-
       - layout: left
         border: weak 
         title: University of St. Gallen
